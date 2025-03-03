@@ -3,10 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My GitHub Page</title>
+    <title>Venteng's Resume</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+        h1, h2 { color: #333; }
+        .section { margin-bottom: 20px; }
+    </style>
 </head>
 <body>
-    <h1>Hello, I'm Venteng!</h1>
-    <p>This is my personal website hosted on GitHub Pages.</p>
+    <h1>Jennifer</h1>
+    <p>Master's student in Finance.</p>
+    
+    <div class="section">
+        <h2>Education</h2>
+        <p>M.S. in Finance, [NYCU]</p>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <ul>
+            <li>Intern at Deloitte (Audit Department)</li>
+            <li>Market Research on Netflix & UBI Insurance</li>
+            <li>Citibank Consumer Banking Exit Analysis</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Contact</h2>
+        <p>Email: jenniferyuu03@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/jenniferyuu03">jenniferyuu03</a></p>
+    </div>
 </body>
 </html>
